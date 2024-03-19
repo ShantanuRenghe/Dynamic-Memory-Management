@@ -50,3 +50,4 @@ The Dynamic Memory Management System is a C program that provides functionality 
 - Validate memory allocations and deallocations to prevent memory leaks and access violations.
 - Ensure that the C compiler is installed on your system.
 
+Contributions to the Dynamic Memory Management System project are welcome! Whether it's bug fixes, feature enhancements, or documentation improvements, feel free to contribute to make this project even better.
